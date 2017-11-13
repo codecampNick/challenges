@@ -1,0 +1,25 @@
+img{
+    width: 50px;
+    margin: 10px;
+    border-radius: 25px;
+}
+#header{
+    margin: 10px;
+    text-align: center;
+}
+.row{
+    margin: auto;
+    text-align: center;
+}
+.col-md-1{
+    text-align: center;
+    margin: auto;
+}
+.col-md-2{
+    text-align: left;
+    margin: auto;
+}
+.col-md-6{
+    text-align: center;
+    margin: auto;
+}
